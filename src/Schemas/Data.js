@@ -48,8 +48,6 @@ export const Data = {
   },
 
 
-
-
   socialMedia: {
     label: "SOCIAL",
     social: [
@@ -64,16 +62,13 @@ export const Data = {
   experience: {
     works: [
       {
-        title: "ACCOUNTING OFFICER",
-        period: "May 2021 to June 2022",
-        company: "Desire by SP",
+        title: "Foreign Exchange Department",
+        period: "1 Auguest 2022 to 1 November 2022",
+        company: "Southest Bank Ltd.",
         description: [
-          "Managing overheads reporting against budget. ",
-          "Providing direct Management to the Finance department to ensure the smooth running of all trade and operations. ",
-          "Audit (Internal & External) related work. ",
-          "Salary & Overtime Sheet preparation of Head Office, Factory & Project, Checking & Disbursement through Cash, Bank & Mobile Portal (BKash)",
-          "Setting compensation levels to match the market and Maintain Complains Issues.",
-          "Multitasking in order to successfully handle multiple accounts, invoices and payments at various stages of execution.",
+          "Duplicate EXP Reporting",
+          "Triplicate EXP Reporting",
+          "PRC ( Proceed Realisation Certificate )"
         ],
       },
     ],
@@ -102,45 +97,25 @@ export const Data = {
 
     ],
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     extraActivities: [
       {
-        title: "dfdf",
-        date: "dfdsfd",
-        occupation: "dfd",
-        activities: ["fijefdso", "fdfi", "dfuhdi"]
+        title: "",
+        date: "",
+        occupation: "Southest University brand ambassador",
+        activities: [
+
+
+        ]
       },
       {
-        title: "dfdf",
-        date: "dfdsfd",
-        occupation: "dfd",
-        activities: ["fijefdso", "fdfi", "dfuhdi"]
+        title: "Blood Donation",
+        date: "",
+        occupation: "",
+        activities: [
+
+
+        ]
       },
-      {
-        title: "dfdf",
-        date: "dfdsfd",
-        occupation: "dfd",
-        activities: ["fijefdso", "fdfi", "dfuhdi"]
-      }
     ],
 
 

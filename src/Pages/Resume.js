@@ -41,7 +41,7 @@ const Resume = (props, ref) => {
           </div>
           <div className="resume__right">
             <AboutMe {...carrerSummery} />
-            {/* <Works {...experience} /> */}
+            <Works {...experience} />
             <Academic {...experience} />
             <ExtraActivities {...experience} />
             {/* <Proyects {...experience} /> */}
